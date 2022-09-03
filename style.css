@@ -681,7 +681,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 800px;
     margin: auto auto auto auto;
 }
 
@@ -703,6 +703,7 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
+
 
 h2 {
     font-size: 22px;
