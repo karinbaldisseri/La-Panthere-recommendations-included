@@ -30,8 +30,18 @@ a:hover {
 .logo-img {
     width: 100px;
 }
+
 .annuaire-margin {
     margin-top: 40px;
+}
+
+form span {
+    color: red;
+    font-size: 20px;
+}
+
+blockquote, figcaption {
+    color: #494949
 }
 
 .bloc {
